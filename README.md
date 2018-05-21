@@ -23,5 +23,5 @@ Libraries used:
 NLTK, Sklearn, Numpy, Pandas, and Matplotlib
 
 Model evaluation:
-Clustering
+Clustering (Dendrogram)
 
